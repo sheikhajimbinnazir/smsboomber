@@ -72,4 +72,5 @@
 ```bash
 pip install requests
 git clone https://github.com/sheikhajimbinnazir/smsboomber
-python3 smsbomber.py #python3 ফাইলের নাম দিয়ে Enter চাপুন
+cd smsboomber
+python3 smsbomber.py
